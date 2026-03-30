@@ -27,8 +27,8 @@ I am a second year software engineering, focused on building efficient, scalable
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claumonbor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claumonbor&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Claumonbor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claumonbor&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
 </p>
 
 ---
