@@ -12,9 +12,14 @@ I am a second year software engineering, focused on building efficient, scalable
 ### 🛠️ My Tech Stack
 
 <p align="left">
+  <!-- Core Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,vscode,tailwind,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,git,github,idea,terminal" />
   </a>
+  <br>
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
