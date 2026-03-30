@@ -5,7 +5,7 @@ I am a second year software engineering, who currently is working on varius proj
 - 🔭 I’m currently lerning IA intelligence
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Phyton, Java, JavaScript.
-- 📫 How to reach me: send me an e-mail [Here](claumonbor@gmail.com)
+- 📫 How to reach me: send me an e-mail to "claumonbor@gmail.com"
 - 😄 Pronouns: she/her
 <!--
 **Claumonbor/Claumonbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
