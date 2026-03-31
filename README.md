@@ -4,7 +4,6 @@ I am a second year software engineering, focused on building efficient, scalable
 
 - 🔭 **Current Projects:** building and optimizing the [Farmacia Borjabad (https://github.com/Claumonbor/FarmaciaBorjabad) system.
 - 🌱 **Learning:** Clean Architecture, Design Patterns, and Advanced Backend logic.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Phyton, Java, JavaScript, Frontend development and project organization.
 - 📫 How to reach me: send me an e-mail to "claumonbor@gmail.com"
 - 😄 Pronouns: she/her
